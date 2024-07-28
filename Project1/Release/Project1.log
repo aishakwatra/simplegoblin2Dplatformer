@@ -1,0 +1,12 @@
+﻿  CDT.cpp
+C:\Users\user\Documents\CT\Y1S2\DT170 Game Design\week567\week567\CDT.h(13,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  GameStateLevel1.cpp
+C:\Users\user\Documents\CT\Y1S2\DT170 Game Design\week567\week567\GameStateLevel1.h(10,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  GameStateLevel2.cpp
+C:\Users\user\Documents\CT\Y1S2\DT170 Game Design\week567\week567\GameStateLevel2.h(8,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  main.cpp
+C:\Users\user\Documents\CT\Y1S2\DT170 Game Design\week567\week567\main.cpp(16,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  shader.cpp
+C:\Users\user\Documents\CT\Y1S2\DT170 Game Design\week567\week567\shader.cpp(12,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  system.cpp
+C:\Users\user\Documents\CT\Y1S2\DT170 Game Design\week567\week567\system.h(9,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory

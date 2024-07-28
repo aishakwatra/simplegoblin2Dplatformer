@@ -1,0 +1,48 @@
+﻿  CDT.cpp
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\CDT.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameStateLevel1.cpp
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(198,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(202,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(205,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(207,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(211,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(214,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(355,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(373,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(800,36): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(946,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(967,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel1.cpp(992,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GameStateLevel2.cpp
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(154,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(158,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(161,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(163,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(167,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(170,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(310,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(675,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(707,36): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(832,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\GameStateLevel2.cpp(853,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  shader.cpp
+  system.cpp
+  Generating Code...
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Project1\system.cpp(50): warning C4715: 'SystemInit': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_helper.obj)' or at ''; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(SOIL.obj)' or at ''; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+  Project1.vcxproj -> C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 1\Y1S2\DT170 Game Design\FINAL PROJECT\Debug\Project1.exe
